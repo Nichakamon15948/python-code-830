@@ -3,7 +3,7 @@ age = int(input("Enter your age: "))
 if age >= 18:
     print("You are an adult")
 
-# if-else statement
+# if-else statement #ควรกลับบ้านหรือไม่
 temperature = 25
 if temperature > 30:
     print("It's hot outside")

@@ -17,7 +17,7 @@ if day == "Saturday" or day == "Sunday":
 else:
     print("It's a weekday")
 
-# Nested if statements
+# Nested if statements 
 weather = "sunny"
 temperature = 28
 
@@ -30,3 +30,9 @@ if weather == "sunny":
         print("Sunny but cold")
 else:
     print("Not a sunny day")
+
+
+if weather == "sunny"  and temperature == "28"
+     print("Perfect day for swimming!")
+elif weather == "sunny"  and temperature == "28"
+     print("Not a sunny day")
